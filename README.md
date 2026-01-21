@@ -4,9 +4,6 @@ A polished, fully functional calculator built with a focus on modern UI/UX and c
 
 
 
-[Image of Neumorphic UI Design]
-
-
 ## 🚀 Live Demo
 Check out the live project here:  
 **[https://addmiral28.github.io/pro-calc/](https://addmiral28.github.io/pro-calc/)**
@@ -26,8 +23,3 @@ Check out the live project here:
 ## 📸 Preview
 * **Dark Mode Support:** Adapts to the user's system preferences.
 * **Smart Formatting:** Uses `toLocaleString` to handle large numbers and decimal precision.
-
-## 🚦 Getting Started
-1. Clone the repo:
-   ```bash
-   git clone [https://github.com/Addmiral28/pro-calc.git](https://github.com/Addmiral28/pro-calc.git)
