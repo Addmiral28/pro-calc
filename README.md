@@ -1,3 +1,9 @@
+NAME:AJAYI AYOMIPO OLAMIPO
+MATRIC:25/18101
+DEPARTMENT:CYBERSECURITY
+
+
+
 # 🧮 Pro-Calc: Neumorphic Design Calculator
 
 A polished, fully functional calculator built with a focus on modern UI/UX and clean code architecture. This isn't just a basic logic exercise; it features a professional design system and a persistent history log.
